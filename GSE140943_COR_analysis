@@ -1,4 +1,3 @@
-
 # Data plots for selected GEO samples
 library(GEOquery)
 
